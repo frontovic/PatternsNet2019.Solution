@@ -11,11 +11,16 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Behavioral", "Behavioral\Be
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StructuralDemos", "StructuralDemos\StructuralDemos.csproj", "{73222CDD-79EA-49B0-A9EE-D659EA979F72}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreationalDemos", "CreationalDemos\CreationalDemos.csproj", "{4923B886-505F-46A1-BDDC-947846916FA9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CreationalDemos", "CreationalDemos\CreationalDemos.csproj", "{4923B886-505F-46A1-BDDC-947846916FA9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BehavioralDemos", "BehavioralDemos\BehavioralDemos.csproj", "{4E74235E-0C58-45D1-915C-13673537F4A0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BehavioralDemos", "BehavioralDemos\BehavioralDemos.csproj", "{4E74235E-0C58-45D1-915C-13673537F4A0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandDemo", "CommandDemo\CommandDemo.csproj", "{67E423B0-D823-4A06-A624-987CDE85D94C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D603510A-463D-4DD6-8AF4-8C23E818A9FB}"
+	ProjectSection(SolutionItems) = preProject
+		Readme.txt = Readme.txt
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
